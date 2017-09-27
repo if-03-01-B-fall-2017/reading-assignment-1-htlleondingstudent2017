@@ -1,0 +1,22 @@
+Word Wide Web General
+1.HTTP,CSS und Javascript haben WWW zum Erfolg gemacht.
+2.IP-Adressen,URI oder DNS adressieren Ressourcen im WEB .
+3.Bestandteile einer URL: Verzeichnis,Dateiname,Textmarke,Username,Portnummer,CGI-Nummer,Protkoll und Servername.
+
+Web Server
+1.Als Webserver bezeichnet man jene Server, die zur Verbreitung von Webinhalten im Internet dienen.
+2.Wenn Sie auf eine Webseite zugreifen, sendet Ihnen ein mit Software ausgestatteter Rechner die Inhalte an Ihren Browser.
+3.Die primäre Funktion dient zum Einreichen von Webformularen, Hochladens von Dateien.
+4.Durch ASP,PHP werden Inhalte in Webseiten beschrieben.
+
+Web Client
+1.Web Client ist eine Softwareanwendung zum Abrufen, Präsentieren von Informationen im WWW.
+2.Web Client kann dazu verwendet werden, auf Information zuzugreifen.
+3.Web Client und Webbrowser sind das gleiche.
+
+Hello World
+1.Das HTMl-Element teilt dem Browser mit, dass es sich um ein HTML-Dokument handelt.
+2.Es ist eine Anweisung zum Webbrowser, über welche Version von HTML die Seite geschrieben wird.
+3.Doctype und html sind die beiden wichtigstem Elemente Im HTML-Element.
+4 Mit 2x strong kann man Texte hervorheben, im Browser sind die wichtigen Wörter fett angestrichen.
+5.Mit 1x strong kann ich das Wichtigste markieren, im Browser sind die markierten Wörter fett angestrichen.
